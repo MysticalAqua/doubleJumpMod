@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "mystical.doublejump.mixin.client",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "DoubleJumpMixinClient"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}
